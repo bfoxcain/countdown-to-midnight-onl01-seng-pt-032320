@@ -1,4 +1,5 @@
 #write your code here
+int= 10
 
 def countdown(int) #10
   while (int < 0)
