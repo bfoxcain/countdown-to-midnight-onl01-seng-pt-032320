@@ -1,5 +1,3 @@
-#write your code here
-int= 10
 
 def countdown(int)
   while (int < 0)
